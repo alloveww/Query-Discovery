@@ -10,9 +10,10 @@ The project is structured as follows:
 * **Queries**: A collection of SQL queries solving different problems. See SQL files.
 
 ## Database Schema
-The database contains the following schema:
-
-![Alt](https://github.com/alloveww/Movies-SQL-Query/blob/main/SQL%20ER.png)
+The database contains the following schema:<br>
+<div style="text-align: center;">
+  <img src="SQL ER.png" alt="Alt" width='500'/>
+</div>
 
 ## Key Features
 The queries in this project showcase the use of advanced SQL techniques, including:
