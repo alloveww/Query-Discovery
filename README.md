@@ -2,7 +2,7 @@
 Medium to Advanced SQL Queries with PostgreSQL
 
 ## Project Description
-This project contains a series of SQL queries designed to demonstrate medium to advanced SQL skills and techniques using PostgreSQL. The queries cover various use cases, including identifying top records for each group, filtering users based on specific criteria, detecting consistency in user ratings, and more. Each query solves a specific problem, providing insights and meeting business requirements for the data stored in the relational databases.
+This project contains a series of SQL queries designed to demonstrate medium to advanced SQL skills and techniques using PostgreSQL. The queries cover various use cases, including identifying top records for each group, filtering users based on specific criteria, detecting consistency in user ratings, and more. Each query solves a specific problem, providing insights and meeting business requirements for the data stored in two relational databases.
 
 ## Project Structure
 The project is structured as follows:
