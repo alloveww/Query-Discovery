@@ -10,11 +10,15 @@ The project is structured as follows:
 * **Queries**: A collection of SQL queries solving different problems. See SQL files.
 
 ## Database Schema
-The database contains the following two schemas:<br>
+
+The database contains the following two schemas:<be>
+
+**Movie:**
 <div style="text-align: center;">
   <img src="Movie Schema.png" alt="Alt" width='500'/>
 </div>
 
+**Northwind:**
 <div style="text-align: center;">
   <img src="Northwind Schema.png" alt="Alt" width='500'/>
 </div>
